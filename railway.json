@@ -1,0 +1,9 @@
+{
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "deploy": {
+    "startCommand": "n8n start",
+    "port": 3000
+  }
+}
